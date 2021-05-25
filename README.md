@@ -1,4 +1,6 @@
-"data.zip" contains the train/test/valid data, where each file name corresponds to a unique index. "data.csv" contains more metadata for each index, such as latitude, longitude, country, and 'geocell'.
+Follow this link to download the data: https://drive.google.com/file/d/1BGolQzYYaU1oSx0CdFwntCOPQ8nyqaPE/view?usp=sharing
+- Split into train/test/valid data, where each file name corresponds to a unique index
+- "data.csv" contains more metadata for each index, such as latitude, longitude, country, and 'geocell'
 
 I divided the world up into 275 "geocells", where a geocell is a lat/long-bounded box containing approximately 300 images.
 
